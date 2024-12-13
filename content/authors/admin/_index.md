@@ -55,8 +55,8 @@ interests:
 education:
   - area: Thesis-based Master in CS & Vector Institute Collaborative Specialization in AI
     institution: Western University (Incoming)
-    date_start: January 2025
-    date_end: September 2026
+    date_start: 2025-01-01
+    date_end: 2026-09-01
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -64,8 +64,8 @@ education:
     #   url: 'https://example.com'
   - area: MPhil in Computer Science
     institution: The Hong Kong Polytechnic University
-    date_start: September 2022 
-    date_end: December 2024
+    date_start: 2022-09-01
+    date_end: 2024-12-31
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -75,8 +75,8 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Software Engineering
     institution: Harbin Institute of Technology
-    date_start: August 2018
-    date_end: June 2022
+    date_start: 2018-08-20
+    date_end: 2022-06-20
     # summary: |
     #   GPA: 3.4/4.0
       
