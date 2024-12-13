@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 梅智敏
+title: Zhimin Mei
 
 # Name pronunciation (optional)
-name_pronunciation: Zhimin Mei
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Zhimin
 last_name: Mei
-
+ 
 # Status emoji
 status:
   icon: 
